@@ -16,7 +16,7 @@ Want to contribute or customize this 100 Days of Cloud Series for your learning 
 
 3. **Clone Your Fork:** Open a terminal and run the following command to clone your fork to your local machine:
     ```bash
-    git clone https://github.com/beingwizard/100-days-of-cloud.git
+    git clone https://github.com/Beingwizard/100DaysofCloud.git
     ```
 
 4. **Make Changes:** Customize the schedule in the `README.md` file based on your preferences or add topics that interest you.
@@ -250,7 +250,7 @@ Want to contribute or customize this 100 Days of Cloud Series for your learning 
 
 3. **Clone Your Fork:** Open a terminal and run the following command to clone your fork to your local machine:
     ```bash
-    git clone https://github.com/beingwizard/100-days-of-cloud.git
+    https://github.com/Beingwizard/100DaysofCloud.git
     ```
 
 4. **Make Changes:** Customize the schedule in the `README.md` file based on your preferences or add topics that interest you.
