@@ -6,6 +6,36 @@ Welcome to the 100 Days of Cloud Series! 🚀 In this comprehensive learning jou
 
 Cloud computing has revolutionized the way we build, deploy, and manage applications. The 100 Days of Cloud Series is a structured approach to help you master key concepts, tools, and services in the cloud ecosystem. Each day, we'll dive into a specific topic, providing hands-on tutorials, explanations, and practical insights.
 
+## Contributing and Customization
+
+Want to contribute or customize this 100 Days of Cloud Series for your learning journey? Follow these simple steps:
+
+1. **Star this Repository:** Click the "Star" button on the top right corner of this page to show your support.
+
+2. **Fork this Repository:** Click the "Fork" button to create your copy of the repository.
+
+3. **Clone Your Fork:** Open a terminal and run the following command to clone your fork to your local machine:
+    ```bash
+    git clone https://github.com/your-username/100-days-of-cloud.git
+    ```
+
+4. **Make Changes:** Customize the schedule in the `README.md` file based on your preferences or add topics that interest you.
+
+5. **Save Your Changes:** Once satisfied, save your changes.
+
+6. **Share Your Version:** Feel free to share your customized schedule on social media, personal blog, or other platforms to inspire and help others.
+
+7. **Tag Us on Socials:**
+    - Twitter: [@azdevindia](https://twitter.com/azdevindia) (Azure Developer Community)
+    - LinkedIn: [@azdevindia](https://www.linkedin.com/in/azdevindia/) (Azure Developer Community)
+    - LinkedIn [@reskilll](https://www.linkedin.com/company/reskilll/) (Reskilll India)
+    - Twitter: [@wizardlocks](https://twitter.com/wizard_locks) (Lakshit Pant)
+    - LinkedIn: [Lakshit Pant (@wizardlocks)](https://www.linkedin.com/in/wizardlocks/) (Lakshit Pant)
+
+By starring, forking, and customizing this repository, you're actively participating in the 100 Days of Cloud Series. Let's build a supportive and diverse community of learners!
+
+Happy cloud learning! 🚀☁️
+
 ## Getting Started
 # 100 Days of Cloud Series Schedule
 
@@ -209,3 +239,33 @@ Cloud computing has revolutionized the way we build, deploy, and manage applicat
 - Explore chaos engineering with Azure Chaos Studio and Infrastructure as Code with Terrafy and Bicep.
 
 Embark on this 100-day journey, and by the end, you'll have a comprehensive understanding of Azure, related technologies, and advanced cloud concepts. Each day brings you closer to becoming a skilled and knowledgeable cloud professional. Happy learning! ☁️📚
+
+## Contributing and Customization
+
+Want to contribute or customize this 100 Days of Cloud Series for your learning journey? Follow these simple steps:
+
+1. **Star this Repository:** Click the "Star" button on the top right corner of this page to show your support.
+
+2. **Fork this Repository:** Click the "Fork" button to create your copy of the repository.
+
+3. **Clone Your Fork:** Open a terminal and run the following command to clone your fork to your local machine:
+    ```bash
+    git clone https://github.com/your-username/100-days-of-cloud.git
+    ```
+
+4. **Make Changes:** Customize the schedule in the `README.md` file based on your preferences or add topics that interest you.
+
+5. **Save Your Changes:** Once satisfied, save your changes.
+
+6. **Share Your Version:** Feel free to share your customized schedule on social media, personal blog, or other platforms to inspire and help others.
+
+7. **Tag Us on Socials:**
+    - Twitter: [@azdevindia](https://twitter.com/azdevindia) (Azure Developer Community)
+    - LinkedIn: [@azdevindia](https://www.linkedin.com/in/azdevindia/) (Azure Developer Community)
+    - LinkedIn [@reskilll](https://www.linkedin.com/company/reskilll/) (Reskilll India)
+    - Twitter: [@wizardlocks](https://twitter.com/wizard_locks) (Lakshit Pant)
+    - LinkedIn: [Lakshit Pant (@wizardlocks)](https://www.linkedin.com/in/wizardlocks/) (Lakshit Pant)
+
+By starring, forking, and customizing this repository, you're actively participating in the 100 Days of Cloud Series. Let's build a supportive and diverse community of learners!
+
+Happy cloud learning! 🚀☁️
