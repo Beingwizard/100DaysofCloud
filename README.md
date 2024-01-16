@@ -41,7 +41,8 @@ Happy cloud learning! 🚀☁️
 
 ## Credit Guide for 100DaysofCloud
 
-**Day 1 of Cloud <Setting up the Environment>  [Credit Guide for 100DaysofCloud](https://dev.to/beingwizard/a-comprehensive-guide-to-setting-up-your-account-and-acquiring-azure-credits-15d2)
+**Day 1 of Cloud** <Setting up the Environment>  [Credit Guide for 100DaysofCloud](https://dev.to/beingwizard/a-comprehensive-guide-to-setting-up-your-account-and-acquiring-azure-credits-15d2)
+
 
 
 ## Azure Fundamentals (Day 2-18) 
