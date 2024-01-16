@@ -39,6 +39,11 @@ Happy cloud learning! 🚀☁️
 ## Getting Started
 # 100 Days of Cloud Series Schedule
 
+## Credit Guide for 100DaysofCloud
+
+**Day 1 of Cloud <Setting up the Environment>  [Credit Guide for 100DaysofCloud](https://dev.to/beingwizard/a-comprehensive-guide-to-setting-up-your-account-and-acquiring-azure-credits-15d2)
+
+
 ## Azure Fundamentals (Day 2-18) 
 
 **Day 2: Azure Budgets and Cost Management** <ComingSoon>
