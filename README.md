@@ -47,8 +47,13 @@ Happy cloud learning! 🚀☁️
 
 ## Azure Fundamentals (Day 2-18) 
 
-**Day 2: Azure Budgets and Cost Management** <ComingSoon>
+**Day 2: Azure Budgets and Cost Management** -> https://dev.to/beingwizard/azure-budgets-and-cost-management-37pf
 - Understand effective cost management in Azure.
+
+Resources for Day 2: 
+- Youtube - https://www.youtube.com/watch?v=X-OCBlpHTrs
+- Ms Learn - https://learn.microsoft.com/en-us/azure/cost-management-billing/
+
 
 **Day 3: Azure Resource Groups** <ComingSoon>
 - Learn the importance of resource groups for organizing and managing Azure resources.
