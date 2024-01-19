@@ -55,8 +55,14 @@ Resources for Day 2:
 - Ms Learn - https://learn.microsoft.com/en-us/azure/cost-management-billing/
 
 
-**Day 3: Azure Resource Groups** <ComingSoon>
-- Learn the importance of resource groups for organizing and managing Azure resources.
+**Day 3: Azure Resource Groups** 
+- [Learn the importance of resource groups for organizing and managing Azure resources](https://dev.to/beingwizard/resource-groups-in-microsoft-azure-5d1a)
+
+Resources : 
+
+- YouTube: https://www.youtube.com/watch?v=jEtOfD_ffUE
+- MS Learn for Resource Groups with Azure CLI - https://learn.microsoft.com/en-us/powershell/module/az.resources/new-azresourcegroup?view=azps-11.2.0
+- MS Learn for Resource Groups with Powershell - https://learn.microsoft.com/en-us/cli/azure/manage-azure-groups-azure-cli
 
 **Day 4: Azure Active Directory and RBAC Roles** <ComingSoon>
 - Explore Azure Active Directory and Role-Based Access Control for secure identity and access management.
