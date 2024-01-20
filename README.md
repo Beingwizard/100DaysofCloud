@@ -64,8 +64,14 @@ Resources :
 - MS Learn for Resource Groups with Azure CLI - https://learn.microsoft.com/en-us/powershell/module/az.resources/new-azresourcegroup?view=azps-11.2.0
 - MS Learn for Resource Groups with Powershell - https://learn.microsoft.com/en-us/cli/azure/manage-azure-groups-azure-cli
 
-**Day 4: Azure Active Directory and RBAC Roles** <ComingSoon>
-- Explore Azure Active Directory and Role-Based Access Control for secure identity and access management.
+**Day 4: Azure Active Directory and RBAC Roles** 
+- [Explore Azure Active Directory and Role-Based Access Control for secure identity and access management.](https://dev.to/beingwizard/azure-role-based-access-control-azure-active-directory-unveiling-the-power-of-secure-access-management-5gcj)
+
+  Resources:
+  - YouTube Live Session: https://www.youtube.com/watch?v=VN5Zmk560W8
+  - MS Learn Role Based Access Control: https://learn.microsoft.com/en-us/azure/role-based-access-control/overview
+  - MS Learn Entra ID: https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/
+  - YouTube course: https://youtu.be/4v7ffXxOnwU?si=kivz-_7qUW3x13eV
 
 **Day 5-7: Virtual Machine Deployment** <ComingSoon>
 - Deploy virtual machines using the Azure Portal, PowerShell, and ARM Templates.
