@@ -73,8 +73,13 @@ Resources :
   - MS Learn Entra ID: https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/
   - YouTube course: https://youtu.be/4v7ffXxOnwU?si=kivz-_7qUW3x13eV
 
-**Day 5-7: Virtual Machine Deployment** <ComingSoon>
+**Day 5-7: Virtual Machine Deployment** 
 - Deploy virtual machines using the Azure Portal, PowerShell, and ARM Templates.
+
+**Day 6: Virtual Machine using Azure Portal**
+- YouTube live Session - https://www.youtube.com/watch?v=rb_Xvkq8dbM
+- Blog Link - https://dev.to/beingwizard/virtual-machine-with-azure-portal-43kf (Important)
+- Ms Learn to Explore - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
 
 **Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
 - Implement resource locks and policies for enhanced governance.
