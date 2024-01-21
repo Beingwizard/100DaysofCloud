@@ -81,6 +81,13 @@ Resources :
 - Blog Link - https://dev.to/beingwizard/virtual-machine-with-azure-portal-43kf (Important)
 - Ms Learn to Explore - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
 
+
+**Day 7: Virtual Machine using Powershell**
+- YouTube live Session - https://www.youtube.com/watch?v=m1knw2N6KIo
+- Blog Link - https://dev.to/beingwizard/deploy-a-virtual-machine-using-azure-powershell-4gk5
+- Ms Learn to Explore - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell
+- A Good read for today - https://thomasmitchell.net/how-to-deploy-a-virtual-machine-in-azure-with-powershell/
+
 **Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
 - Implement resource locks and policies for enhanced governance.
 
