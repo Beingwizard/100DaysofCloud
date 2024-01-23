@@ -76,17 +76,23 @@ Resources :
 **Day 5-7: Virtual Machine Deployment** 
 - Deploy virtual machines using the Azure Portal, PowerShell, and ARM Templates.
 
-**Day 6: Virtual Machine using Azure Portal**
+**Day 5: Virtual Machine using Azure Portal**
 - YouTube live Session - https://www.youtube.com/watch?v=rb_Xvkq8dbM
 - Blog Link - https://dev.to/beingwizard/virtual-machine-with-azure-portal-43kf (Important)
 - Ms Learn to Explore - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
 
 
-**Day 7: Virtual Machine using Powershell**
+**Day 6: Virtual Machine using Powershell**
 - YouTube live Session - https://www.youtube.com/watch?v=m1knw2N6KIo
 - Blog Link - https://dev.to/beingwizard/deploy-a-virtual-machine-using-azure-powershell-4gk5
 - Ms Learn to Explore - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell
 - A Good read for today - https://thomasmitchell.net/how-to-deploy-a-virtual-machine-in-azure-with-powershell/
+
+**Day 7: Recap till Day 6**
+- YouTube live Session - https://www.youtube.com/watch?v=U_C977-PTog
+- VS Code Installation - https://code.visualstudio.com/download
+- A good read for today - https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/09-functions?view=powershell-7.4
+- Another good read for today - https://locall.host/what-is-a-powershell-parameter-parameters-in-powershell/
 
 **Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
 - Implement resource locks and policies for enhanced governance.
