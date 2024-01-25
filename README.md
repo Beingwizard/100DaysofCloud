@@ -94,8 +94,9 @@ Resources :
 - A good read for today - https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/09-functions?view=powershell-7.4
 - Another good read for today - https://locall.host/what-is-a-powershell-parameter-parameters-in-powershell/
 
-**Day 8: Azure Resource Locks and Azure Policy** <ComingSoon>
+**Day 8: Azure Resource Locks and Azure Policy** 
 - Implement resource locks and policies for enhanced governance.
+- Blog Link : https://dev.to/beingwizard/100-days-of-cloud-day-8-azure-resource-locks-and-azure-policy-1kin
 
 **Day 9: Azure Network Security Groups (NSG)** <ComingSoon>
 - Explore network security with NSGs.
