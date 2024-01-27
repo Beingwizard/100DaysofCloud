@@ -99,8 +99,12 @@ Resources :
 - YouTube Live Link: https://www.youtube.com/watch?v=_C6NpIzm9SQ
 - Blog Link : https://dev.to/beingwizard/100-days-of-cloud-day-8-azure-resource-locks-and-azure-policy-1kin
 
-**Day 9: Azure Network Security Groups (NSG)** <ComingSoon>
+**Day 9: Azure Network Security Groups (NSG)** 
 - Explore network security with NSGs.
+- Ms Learn - https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+- YouTube reference - https://www.youtube.com/watch?v=aP-8PiiB7fA
+- YouTube Live Link - https://www.youtube.com/watch?v=flQait50h6s
+- Blog Link for today - https://dev.to/beingwizard/azure-network-security-groups-1fhn
 
 **Day 10-11: Azure Virtual Networks (Part 1-2)** <ComingSoon>
 - Configure Azure Virtual Networks and understand peering.
