@@ -106,8 +106,14 @@ Resources :
 - YouTube Live Link - https://www.youtube.com/watch?v=flQait50h6s
 - Blog Link for today - https://dev.to/beingwizard/azure-network-security-groups-1fhn
 
-**Day 10-11: Azure Virtual Networks (Part 1-2)** <ComingSoon>
+**Day 10-11: Azure Virtual Networks (Part 1-2)** 
 - Configure Azure Virtual Networks and understand peering.
+
+  **Day 10** :
+- YouTube reference - https://www.youtube.com/watch?v=feQvnIUJ3Iw
+- YouTube Live Link - https://www.youtube.com/watch?v=6dr1zOu0wtI
+- Blog Link for today - https://dev.to/beingwizard/networking-in-microsoft-azure-13h5
+
 
 **Day 12-13: Azure VPN Connectivity** <ComingSoon>
 - Set up Point-to-Site and Site-to-Site VPN Connectivity.
