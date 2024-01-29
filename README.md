@@ -114,6 +114,11 @@ Resources :
 - YouTube Live Link - https://www.youtube.com/watch?v=6dr1zOu0wtI
 - Blog Link for today - https://dev.to/beingwizard/networking-in-microsoft-azure-13h5
 
+**Day 11:**
+- YouTube Live Link - https://www.youtube.com/watch?v=3yPTy-rcFyg
+- Blog Link for today - https://dev.to/beingwizard/mastering-azure-peering-commanding-your-network-with-precision-51e5
+- MS Pricing for Virtual Network - https://azure.microsoft.com/en-us/pricing/details/virtual-network/
+
 
 **Day 12-13: Azure VPN Connectivity** <ComingSoon>
 - Set up Point-to-Site and Site-to-Site VPN Connectivity.
