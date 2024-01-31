@@ -122,6 +122,11 @@ Resources :
 
 **Day 12-13: Azure VPN Connectivity** <ComingSoon>
 - Set up Point-to-Site and Site-to-Site VPN Connectivity.
+- YouTube Live Link 1: https://www.youtube.com/watch?v=7moan-scHg4
+- YouTube Live Link 2: https://www.youtube.com/watch?v=Sh8kyQ1MALI
+- Blog Link : https://dev.to/beingwizard/unlock-seamless-connectivity-with-azure-point-to-site-and-site-to-site-connections-1caa
+- **Must Read : https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-creating-an-azure-point-to-site-vpn/ba-p/326264**
+
 
 **Day 14: Azure Managed Identities** <ComingSoon>
 - Understand and implement Azure Managed Identities.
