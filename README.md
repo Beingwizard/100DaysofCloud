@@ -120,7 +120,7 @@ Resources :
 - MS Pricing for Virtual Network - https://azure.microsoft.com/en-us/pricing/details/virtual-network/
 
 
-**Day 12-13: Azure VPN Connectivity** <ComingSoon>
+**Day 12-13: Azure VPN Connectivity** 
 - Set up Point-to-Site and Site-to-Site VPN Connectivity.
 - YouTube Live Link 1: https://www.youtube.com/watch?v=7moan-scHg4
 - YouTube Live Link 2: https://www.youtube.com/watch?v=Sh8kyQ1MALI
@@ -128,8 +128,11 @@ Resources :
 - **Must Read : https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-creating-an-azure-point-to-site-vpn/ba-p/326264**
 
 
-**Day 14: Azure Managed Identities** <ComingSoon>
+**Day 14: Azure Managed Identities** 
 - Understand and implement Azure Managed Identities.
+- Blog Link : https://dev.to/beingwizard/unleashing-the-power-of-azure-managed-identities-for-seamless-integration-2kf5
+- YouTube Live Link : https://www.youtube.com/watch?v=7Kmg4hbZD0o
+- MS Learn : https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview
 
 **Day 15: Azure Key Vault** <ComingSoon>
 - Securely manage and protect sensitive information using Azure Key Vault.
