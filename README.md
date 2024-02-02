@@ -134,8 +134,10 @@ Resources :
 - YouTube Live Link : https://www.youtube.com/watch?v=7Kmg4hbZD0o
 - MS Learn : https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/overview
 
-**Day 15: Azure Key Vault** <ComingSoon>
+**Day 15: Azure Key Vault** 
 - Securely manage and protect sensitive information using Azure Key Vault.
+- MS Learn - https://learn.microsoft.com/en-us/azure/key-vault/general/security-features#tls-and-https
+- Blog Link - https://dev.to/beingwizard/azure-key-vault-4j8k
 
 **Day 16: Azure Firewall** <ComingSoon>
 - Explore Azure Firewall for network security.
