@@ -139,11 +139,28 @@ Resources :
 - MS Learn - https://learn.microsoft.com/en-us/azure/key-vault/general/security-features#tls-and-https
 - Blog Link - https://dev.to/beingwizard/azure-key-vault-4j8k
 
-**Day 16: Azure Firewall** <ComingSoon>
+**Day 16: Azure Firewall** 
 - Explore Azure Firewall for network security.
+- Blogs - https://dev.to/beingwizard/azure-firewall-222b
+- MS Learn - https://learn.microsoft.com/en-us/azure/firewall/overview
+- YouTube - https://streamyard.com/ikfatk37qrvq
+- Good Read - https://azure.microsoft.com/en-us/solutions/network-appliances/
 
-**Day 18-19: Azure Migrate and Site Recovery** <ComingSoon>
+**Day 17-18: Azure Migrate and Site Recovery** 
 - Explore Azure migration strategies and disaster recovery solutions.
+
+**Day 17: Azure Migrate: **
+- MS Learn : https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview
+- Must Read : https://partner.microsoft.com/en-rs/solutions/azure/aiw
+- YouTube : https://streamyard.com/8w5vsd4qpvwg
+- Blog : https://dev.to/beingwizard/azure-migrate-58n2
+
+  **Day 18: Azure Site Recovery: **
+  - MS Learn : https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview
+  - YouTube : https://streamyard.com/m6znnqkjaesz
+  - A quick watch : https://www.youtube.com/watch?v=94LDYjBhz5c
+  - Blog : https://dev.to/beingwizard/azure-site-recovery-4gfn
+  
 
 ## Monitoring
 
