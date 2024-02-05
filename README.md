@@ -160,6 +160,9 @@ Resources :
   - YouTube : https://streamyard.com/m6znnqkjaesz
   - A quick watch : https://www.youtube.com/watch?v=94LDYjBhz5c
   - Blog : https://dev.to/beingwizard/azure-site-recovery-4gfn
+
+
+**Day 19: Azure Mask** <Coming Soon>
   
 
 ## Monitoring
