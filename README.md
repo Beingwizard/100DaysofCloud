@@ -162,24 +162,17 @@ Resources :
   - Blog : https://dev.to/beingwizard/azure-site-recovery-4gfn
 
 
-**Day 19: Azure Mask** <Coming Soon>
-  
+**Day 19: Azure Mask** 
+- Extension Link : https://chromewebstore.google.com/detail/az-mask/amobeamdmdnloajcaiomgegpakjdiacm
+- GitHub Link : https://github.com/clarkio/azure-mask
+- YouTube : https://www.youtube.com/watch?v=gU9VW9Kzp1M
 
-## Monitoring
-
-**Day 20-21: Cloud Harmony** <ComingSoon>
-- Understand cloud monitoring best practices with Cloud Harmony.
-- Monitoring with Grafana and InfluxDB using Docker Containers – Introduction
-- Monitoring with Grafana and InfluxDB using Docker Containers – Part 1
-- Monitoring with Grafana and InfluxDB using Docker Containers – Part 2
-- Monitoring with Grafana and InfluxDB using Docker Containers – Part 3
-- Monitoring with Grafana and Influx DB using Docker Containers – Part 4
+**Day 20: Azure Backup**
+- MS Learn : https://learn.microsoft.com/en-us/azure/backup/
+- YouTube : https://streamyard.com/dj385v2jvcj4
 
 
-**Day 22: Azure Mask** <ComingSoon>
-- Explore data masking techniques with Azure Mask.
-
-**Day 23-24: Azure Backup, Import/Export, and Data Box** <ComingSoon>
+**Day 23-24: Import/Export, and Data Box** <ComingSoon>
 - Learn about Azure Backup, Import/Export, and Data Box.
 
 **Day 25: Azure Storage** <ComingSoon>
@@ -218,6 +211,16 @@ Resources :
 
 **Day 49: Managing Azure Hybrid Services with Windows Admin Center** <ComingSoon>
 - Manage hybrid services with Windows Admin Center.
+
+## Monitoring
+
+**Day 50-51: Cloud Harmony** <ComingSoon>
+- Understand cloud monitoring best practices with Cloud Harmony.
+- Monitoring with Grafana and InfluxDB using Docker Containers – Introduction
+- Monitoring with Grafana and InfluxDB using Docker Containers – Part 1
+- Monitoring with Grafana and InfluxDB using Docker Containers – Part 2
+- Monitoring with Grafana and InfluxDB using Docker Containers – Part 3
+- Monitoring with Grafana and Influx DB using Docker Containers – Part 4
 
 **Day 51: AZ-801 Mock Prep!** <ComingSoon>
 - Prepare for the AZ-801 exam.
