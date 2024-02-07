@@ -149,13 +149,13 @@ Resources :
 **Day 17-18: Azure Migrate and Site Recovery** 
 - Explore Azure migration strategies and disaster recovery solutions.
 
-**Day 17: Azure Migrate: **
+**Day 17: Azure Migrate:**
 - MS Learn : https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview
 - Must Read : https://partner.microsoft.com/en-rs/solutions/azure/aiw
 - YouTube : https://streamyard.com/8w5vsd4qpvwg
 - Blog : https://dev.to/beingwizard/azure-migrate-58n2
 
-  **Day 18: Azure Site Recovery: **
+  **Day 18: Azure Site Recovery:**
   - MS Learn : https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview
   - YouTube : https://streamyard.com/m6znnqkjaesz
   - A quick watch : https://www.youtube.com/watch?v=94LDYjBhz5c
