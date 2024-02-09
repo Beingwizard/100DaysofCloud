@@ -172,8 +172,13 @@ Resources :
 - YouTube : https://streamyard.com/dj385v2jvcj4
 
 
-**Day 23-24: Import/Export, and Data Box** <ComingSoon>
+**Day 21: Import/Export, and Data Box** 
 - Learn about Azure Backup, Import/Export, and Data Box.
+- YouTube(me) : https://streamyard.com/qdvz4us7wmr9
+- Learn more here: https://www.youtube.com/watch?v=3VsyMfkCWt0
+- MS Learn : https://learn.microsoft.com/en-us/azure/import-export/storage-import-export-service
+
+**Day 22-23: AZ 900 Exam - Practice all the AZ 900 services** ~ assignment
 
 **Day 25: Azure Storage** <ComingSoon>
 - Explore Azure Storage solutions.
