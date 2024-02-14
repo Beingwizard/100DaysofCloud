@@ -180,6 +180,10 @@ Resources :
 
 **Day 22-23: AZ 900 Exam - Practice all the AZ 900 services** ~ assignment
 
+**Day 24: Cloud Adoption**
+- Tool for price calculator over different cloud providers: https://holori.com/cloud-calculator/
+- Tool for different services by different cloud providers: https://comparecloud.in/
+
 **Day 25: Azure Storage** <ComingSoon>
 - Explore Azure Storage solutions.
 
