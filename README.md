@@ -184,7 +184,27 @@ Resources :
 - Tool for price calculator over different cloud providers: https://holori.com/cloud-calculator/
 - Tool for different services by different cloud providers: https://comparecloud.in/
 
-**Day 25: Azure Storage** <ComingSoon>
+**Day 25: Azure 900 Recap here**
+- MS Learn : https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/
+- MS Learn : https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
+- Topics : 
+1. Identify the benefits and considerations of using cloud services.
+2. Describe the differences between categories of cloud services
+3. Describe the differences between types of cloud computing
+4. Describe the core Azure architectural components.
+5. Describe core resources available in Azure.
+6. Benefits and usage of Virtual Machines, Azure App Services, Azure Container Instances (ACI), Azure Kubernetes Service (AKS), and Azure Virtual Desktop.
+7. Describe the benefits and usage of Virtual Networks, VPN Gateway, Virtual Network peering, and ExpressRoute
+9. Describe core solutions available in Azure
+10. Describe Azure management tools
+11. Describe Azure security features
+12. Describe Azure network security
+13. Describe core Azure identity services
+14. Describe Azure governance features
+15. Describe privacy and compliance resources
+
+
+**Day : Azure Storage** <ComingSoon>
 - Explore Azure Storage solutions.
 
 ## Linux and Infrastructure as Code 
